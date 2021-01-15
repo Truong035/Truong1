@@ -1,0 +1,6 @@
+C:\Users\GMT\Desktop\LuyenTap\DAL\bin\Debug\DAL.dll
+C:\Users\GMT\Desktop\LuyenTap\DAL\bin\Debug\DAL.pdb
+C:\Users\GMT\Desktop\LuyenTap\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\GMT\Desktop\LuyenTap\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\GMT\Desktop\LuyenTap\DAL\obj\Debug\DAL.dll
+C:\Users\GMT\Desktop\LuyenTap\DAL\obj\Debug\DAL.pdb

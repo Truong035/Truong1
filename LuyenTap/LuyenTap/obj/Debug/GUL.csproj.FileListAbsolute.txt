@@ -1,0 +1,15 @@
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\bin\Debug\LuyenTap.exe.config
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\bin\Debug\LuyenTap.exe
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\bin\Debug\LuyenTap.pdb
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\bin\Debug\BUS.dll
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\bin\Debug\DAL.dll
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\bin\Debug\BUS.pdb
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\bin\Debug\DAL.pdb
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\obj\Debug\GUL.csprojAssemblyReference.cache
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\obj\Debug\LuyenTap.Form1.resources
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\obj\Debug\LuyenTap.Properties.Resources.resources
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\obj\Debug\GUL.csproj.GenerateResource.cache
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\obj\Debug\GUL.csproj.CoreCompileInputs.cache
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\obj\Debug\GUL.csproj.CopyComplete
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\obj\Debug\LuyenTap.exe
+C:\Users\GMT\Desktop\LuyenTap\LuyenTap\obj\Debug\LuyenTap.pdb

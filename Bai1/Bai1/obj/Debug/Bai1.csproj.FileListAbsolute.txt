@@ -1,0 +1,15 @@
+C:\Users\GMT\source\repos\Bai1\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+C:\Users\GMT\source\repos\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+C:\Users\GMT\source\repos\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\GMT\source\repos\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\GMT\source\repos\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\GMT\source\repos\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\GMT\source\repos\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\Users\GMT\source\repos\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\GMT\source\repos\Bai1\Bai1\bin\Debug\BUS.dll
+C:\Users\GMT\source\repos\Bai1\Bai1\bin\Debug\DAL.dll
+C:\Users\GMT\source\repos\Bai1\Bai1\bin\Debug\BUS.pdb
+C:\Users\GMT\source\repos\Bai1\Bai1\bin\Debug\DAL.pdb
+C:\Users\GMT\source\repos\Bai1\Bai1\obj\Debug\Bai1.csproj.CopyComplete
+C:\Users\GMT\source\repos\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\Users\GMT\source\repos\Bai1\Bai1\obj\Debug\Bai1.pdb

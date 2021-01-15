@@ -1,0 +1,6 @@
+C:\Users\GMT\source\repos\ExCell\Dal\bin\Debug\Dal.dll
+C:\Users\GMT\source\repos\ExCell\Dal\bin\Debug\Dal.pdb
+C:\Users\GMT\source\repos\ExCell\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\GMT\source\repos\ExCell\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\GMT\source\repos\ExCell\Dal\obj\Debug\Dal.dll
+C:\Users\GMT\source\repos\ExCell\Dal\obj\Debug\Dal.pdb

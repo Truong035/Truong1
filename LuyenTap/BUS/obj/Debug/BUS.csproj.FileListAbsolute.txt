@@ -1,0 +1,10 @@
+C:\Users\GMT\Desktop\LuyenTap\BUS\bin\Debug\BUS.dll
+C:\Users\GMT\Desktop\LuyenTap\BUS\bin\Debug\BUS.pdb
+C:\Users\GMT\Desktop\LuyenTap\BUS\bin\Debug\DAL.dll
+C:\Users\GMT\Desktop\LuyenTap\BUS\bin\Debug\DAL.pdb
+C:\Users\GMT\Desktop\LuyenTap\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\GMT\Desktop\LuyenTap\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\GMT\Desktop\LuyenTap\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\GMT\Desktop\LuyenTap\BUS\obj\Debug\BUS.dll
+C:\Users\GMT\Desktop\LuyenTap\BUS\obj\Debug\BUS.pdb
+C:\Users\GMT\Desktop\LuyenTap\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache
